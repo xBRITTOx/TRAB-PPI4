@@ -1,0 +1,24 @@
+{
+  "name": "trab-ppi4",
+  "version": "1.0.0",
+  "description": "trabalho",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBRITTOx/TRAB-PPI4.git"
+  },
+  "author": "Cristiano Ferreira da Silva Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBRITTOx/TRAB-PPI4/issues"
+  },
+  "homepage": "https://github.com/xBRITTOx/TRAB-PPI4#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
